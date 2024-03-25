@@ -8,4 +8,4 @@
 DEFINE("DB_HOST", "localhost");
 DEFINE("DB_NAME", "blogsystem");
 DEFINE("DB_USERNAME", "software");
-DEFINE("DB_PASSWORD", "wcKwnHm5*]DgUKNfs");
+DEFINE("DB_PASSWORD", "passwort");
